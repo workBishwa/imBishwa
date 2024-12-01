@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /projects/
 title: "My projects"
 author_profile: true
 redirect_from: 
@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-"Projects will be added soon....... (loading...)" ---<cite>Bishwa</cite>
+Loading... ⏳
