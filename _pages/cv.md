@@ -22,8 +22,8 @@ With an enthusiastic passion for continuous learning, I am dedicated to leveragi
 | **Degree (Specialization)**                | **Institution**                              | **Year of Completion** |
 |--------------------------------------------|----------------------------------------------|-------------------------|
 | MSc. Environmental Science                 | College of Applied Sciences Nepal (TU)       | 2024                   |
-| BSc. Environmental Science                 | Tri-Chandra Multiple Campus (TU)             | 2019                   |
-| High School (Science)                      | Grammar Public HS School (HSEB)             | 2015                   |
+| BSc. Environmental Science                 | (TU)             | 2019                   |
+| High School (Science)                      |  (HSEB)             | 2015                   |
 | SLC                                         | Nepal Government                             | 2013                   |
 
 > **TU** = Tribhuvan University  
