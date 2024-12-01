@@ -34,7 +34,8 @@ With a multidisciplinary approach, I dedicate myself to promoting **sustainable 
   Exploring the intersections of **climate**, **hydrology**, **hazards**, **climate risk**, and **resource management** to create climate-resilient solutions that positively impact communities and ecosystems.  
 
 - 📊 **Skills and Expertise**:  
-  - **Hydrologic Modeling**  
+  - **Hydrologic Modeling**
+  - **Climate Change Analysis**
   - **Data Analysis**  
   - **Hazard Analysis**  
   - **Project Management**  

@@ -6,7 +6,7 @@ permalink: /teaching/2024-hydrology-teaching-Intro
 venue: "Tribhuvan University, College of Applied Sciences-Nepal , Hydrology Department"
 date: 2024-12-02
 location: "Kathmandu, Nepal"
-slidesurl: 'http://academicpages.github.io/files/L1_Introduction_Hydrology.pdf'
+slidesurl: 'https://workbishwa.github.io/imBishwa/files/L1_Introduction_Hydrology.pdf'
 ---
 
 Welcome to the first session on **Hydrological Modeling**! 🌊 This course is designed to equip you with the knowledge and tools necessary to understand, simulate, and analyze hydrological processes effectively. In this session, we will explore the fundamental concepts of hydrological modeling, its applications in addressing real-world challenges, and its importance in managing water resources sustainably.  
@@ -18,3 +18,5 @@ To set the foundation, we'll discuss the key objectives of hydrological modeling
 - **HEC-HMS**: [🌊 Download HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/downloads.aspx)  
 - **HEC-RAS**: [🏞️ Download HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/download.aspx)  
 - **HEC-DSSVue**: [📊 Download HEC-DSSVue](https://www.hec.usace.army.mil/software/hec-dssvue/downloads.aspx)  
+
+[View Hydrological Modeling Report in Google Docs](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/L1_Introduction_Hydrology.pdf)
