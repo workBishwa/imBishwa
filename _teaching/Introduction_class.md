@@ -1,5 +1,5 @@
 ---
-title: "Hydrology Class 1"
+title: "Hydrological Modelling using HEC-HMS and HEC-RAS Introduction"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-hydrology-teaching-Intro
