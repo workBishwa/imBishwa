@@ -9,56 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+         🌟 Bishwa Prakash Puri  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🌱 **About Me**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+With an enthusiastic passion for continuous learning, I am dedicated to leveraging acquired knowledge toward the progress of human civilization.  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🎓 **Education**
+
+| **Degree (Specialization)**                | **Institution**                              | **Year of Completion** |
+|--------------------------------------------|----------------------------------------------|-------------------------|
+| MSc. Environmental Science                 | College of Applied Sciences Nepal (TU)       | 2024                   |
+| BSc. Environmental Science                 | Tri-Chandra Multiple Campus (TU)             | 2019                   |
+| High School (Science)                      | Grammar Public HS School (HSEB)             | 2015                   |
+| SLC                                         | Nepal Government                             | 2013                   |
+
+> **TU** = Tribhuvan University  
+> **HSEB** = Higher Secondary Education Board  
+
+---
+
+## 💼 **Professional Experience**
+
+### 🌍 **Environmental Consultant (Environmental Officer)**
+
+- Managed field visits, data collection, report preparation, and collaboration with industries, government bodies, and the local community.  
+
+### 🎓 **Educational Consultancy (Business Development Manager/Counseling/Documentation Officer)**
+
+- Building efficient working environment and elevating businsses to new heights.
+- Guiding students toward achieving their academic goals through counseling and documentation.  
+- Enhanced consulting skills by providing tailored educational counseling services.  
+
+### 🌱 **Environmental Consultant (Environmental Assistant)**
+
+- Conducted site assessments to evaluate environmental impacts.  
+- Advised clients on adhering to environmental regulations and laws.  
+- Provided recommendations and developed strategies to minimize or remediate environmental issues.  
+- Oversaw environmental projects, including planning, implementation, and monitoring for compliance.  
+- Communicated findings, recommendations, and impacts to stakeholders and regulatory bodies.  
+- Promoted sustainable practices to mitigate adverse effects on ecosystems and human health.  
+
+### 🔬 **Lab (MSDS Officer Intern)**  
+
+- Prepared laboratory consumables inventory.  
+- Developed Material Safety Data Sheets (MSDS).  
+
+---
+
+## 🌍 **Language Skills**
+
+| **Language** | **Reading**   | **Writing**    | **Speaking**   |
+|--------------|---------------|----------------|----------------|
+| Nepali       | Native        | Native         | Native         |
+| English      | Excellent     | Excellent      | Excellent      |
+| Hindi        | Excellent     | Beginner       | Intermediate   |
+
+---
+
+## 💻 **Technical Skills**
+
+- **Programming**: Python, R-Programming, LaTeX, Markdown  
+- **Geospatial Analysis**: GIS, HEC-RAS, HEC-HMS, SDSM  
+- **Field and Environmental Tools**: Field Survey, IEE/EIA/BES  
+- **Documentation**: Report Writing, Stakeholder Consultations, Documentation  
+- **Office Tools**: Microsoft Office  
+
+---
+
+Feel free to ask for general/specific details! 😊  
