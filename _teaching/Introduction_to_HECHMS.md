@@ -8,7 +8,9 @@ date: 2024-12-03
 location: "Kathmandu, Nepal"
 
 ---
-## **Hydrology Project: Balkhu Basin**
+
+In this project, we will use HEC-HMS to analyze hydrological processes in the Balkhu Basin. The goal is to model runoff, precipitation, and streamflow, and apply methods such as the SCS Curve Number for losses and the SCS Unit Hydrograph for transforming runoff. Additionally, we will incorporate routing and time series data to simulate basin hydrology effectively.
+**Hydrology Project: Balkhu Basin**
 
 ## **Subbasin Information**
 
@@ -72,5 +74,5 @@ location: "Kathmandu, Nepal"
 
 ## **Downloads**
 
-[Terrain File (*.tif*)](https://workbishwa.github.io/imBishwa/files/clip_balkhu111.tif)
+[Balkhu Terrain File (*.tif*)](https://workbishwa.github.io/imBishwa/files/clip_balkhu111.tif)
 [projection_coordinate](https://workbishwa.github.io/imBishwa/files/balkhu_coordinate.prj)
