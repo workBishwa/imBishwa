@@ -1,7 +1,7 @@
 ---
 title: 'Comprehensive Review on Menstrual Health Management and Waste Disposal in Nepal'
 date: 2024-12-02
-permalink: /posts/2024/12/sanitary-waste/
+permalink: /posts/2024/12/menstrual-health/
 tags:
   - Solid Waste
   - WASH
