@@ -307,7 +307,7 @@ Together, these managers provide critical data management tools in HEC-HMS, enha
 
 ---
 
-"HEC-HMS work flow <img src='/images/hec_hms_workflow.png'>"
+"HEC-HMS work flow <img src='https://workbishwa.github.io/imBishwa/images/hec_hms_workflow.png'>"
 
 ---
 
