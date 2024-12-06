@@ -307,7 +307,9 @@ Together, these managers provide critical data management tools in HEC-HMS, enha
 
 ---
 
-![[https://workbishwa.github.io/imBishwa/images/hec_hms_workflow.png]]
+"HEC-HMS work flow <img src='/images/hec_hms_workflow.png'>"
+
+---
 
 In this example, we will use HEC-HMS to analyze hydrological processes in the Balkhu Basin. The goal is to model runoff, precipitation, and streamflow, and apply methods such as the SCS Curve Number for losses and the SCS Unit Hydrograph for transforming runoff. Additionally, we will incorporate routing and time series data to simulate basin hydrology effectively.  
 **Hydrology Practice Example: Balkhu Basin**
