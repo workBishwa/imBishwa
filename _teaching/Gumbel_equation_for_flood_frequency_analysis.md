@@ -22,31 +22,41 @@ This distribution plays a critical role in risk management and design standards,
 
 ## Equations for Gumbel Distribution
 
+- **Probability Formula**:  
+   $$P = \frac{m}{N + 1}$$  
+   Where:
+
+  - \( m \): order number of the event  
+  - \( N \): total number of events in the data  
+
+- **Recurrence Interval**:  
+   $$T = \frac{1}{P}$$  
+
 ### Maximum Series
 
-Mn = max {X1, X2, ..., Xn}
+$$M_n = max {X1, X2, ..., Xn}$$
 
 ### Gumbel Equation
 
-XT = mean + K * SD bar{x}
+$$X_T = \bar{x} + K * \cdot \sigma_{n-1}$$
 
 Where:
 
-$$\bar{x} $$
-
-- SD = standard deviation
+- \( \sigma_{n-1} \): standard deviation of a sample of size \( N \), calculated as:  
+     $$\sigma_{n-1} = \sqrt{\frac{\sum (x - \bar{x})^2}{N - 1}}$$
 - K = frequency factor  
-  \( K = (YT - Yn) / Sn \)
+  $$K = \frac{Y_T - \bar{Y}_n}{S_n}$$
 
-#### Components of \( K \)
+Where:
 
-1. YT = Reduced variate, a function of T:
-   YT = -[ln(ln(T / (T - 1)))]  
-   Or:  
-   YT = -[0.834 + 2.303 * log(log(T / (T - 1)))]  
+- \( Y_T \): reduced variate, a function of \( T \), given by:
 
-2. Yn = Reduced mean, a function of sample size N.  
-3. Sn = Reduced standard deviation, a function of sample size N.
+     $$Y_T = -\ln(-\ln(\frac{T}{T - 1}))$$  
+     or  
+     $$Y_T = -[0.834 + 2.303 \log(\log(\frac{T}{T - 1}))]$$  
+
+- \( \bar{Y}_n \): reduced mean, a function of sample size \( N \)
+- \( S_n \): reduced standard deviation, a function of sample size \( N \)
 
 ### Yn and Sn in Gumbel's Extreme Value Distribution
 
