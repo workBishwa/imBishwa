@@ -55,8 +55,9 @@ Where:
      or  
      $$Y_T = -[0.834 + 2.303 \log(\log(\frac{T}{T - 1}))]$$
 
+```markdown
 Note:
-log typically refers to the base 10 logarithm, also known as the common logarithm. ln stands for the natural logarithm, which is the logarithm with base e (Euler's number, approximately 2.71828). $$\log(x) = \frac{\ln(x)}{\ln(10)}$$
+log typically refers to the base 10 logarithm, also known as the common logarithm. ln stands for the natural logarithm, which is the logarithm with base e (Euler's number, approximately 2.71828). $$\log(x) = \frac{\ln(x)}{\ln(10)}$$```
 
 - $$\bar{Y}_n$$: reduced mean, a function of sample size $$N$$
 - $$S_n$$: reduced standard deviation, a function of sample size $$N$$
@@ -66,3 +67,5 @@ log typically refers to the base 10 logarithm, also known as the common logarith
 ### Yn and Sn in Gumbel's Extreme Value Distribution
 
 ![Yn and Sn in Gumbel's Extreme Value Distribution](https://workbishwa.github.io/imBishwa/images/Yn_Sn_value_for_gumbel_distribution.png)
+
+[Download Template excel sheet for Gumbel calculation](https://workbishwa.github.io/imBishwa/files/gumbel_calculation_template.xlsx)
