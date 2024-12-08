@@ -61,6 +61,8 @@ log typically refers to the base 10 logarithm, also known as the common logarith
 - $$\bar{Y}_n$$: reduced mean, a function of sample size $$N$$
 - $$S_n$$: reduced standard deviation, a function of sample size $$N$$
 
+\( \log(x) = \frac{\ln(x)}{\ln(10)} \)
+
 ### Yn and Sn in Gumbel's Extreme Value Distribution
 
 ![Yn and Sn in Gumbel's Extreme Value Distribution](https://workbishwa.github.io/imBishwa/images/Yn_Sn_value_for_gumbel_distribution.png)
