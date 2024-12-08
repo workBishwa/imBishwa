@@ -42,24 +42,24 @@ $$X_T = \bar{x} + K * \cdot \sigma_{n-1}$$
 
 Where:
 
-- $ \sigma_{n-1} $: standard deviation of a sample of size $N$, calculated as:  
+- $$\sigma_{n-1}$$: standard deviation of a sample of size $$N$$, calculated as:  
      $$\sigma_{n-1} = \sqrt{\frac{\sum (x - \bar{x})^2}{N - 1}}$$
 - K = frequency factor  
   $$K = \frac{Y_T - \bar{Y}_n}{S_n}$$
 
 Where:
 
-- $Y_T$: reduced variate, a function of $T$, given by:
+- $$Y_T$$: reduced variate, a function of $$T$$, given by:
 
      $$Y_T = -\ln(-\ln(\frac{T}{T - 1}))$$  
      or  
      $$Y_T = -[0.834 + 2.303 \log(\log(\frac{T}{T - 1}))]$$
 
 Note:
-log typically refers to the base 10 logarithm, also known as the common logarithm. ln stands for the natural logarithm, which is the logarithm with base e (Euler's number, approximately 2.71828). $\log(x) = \frac{\ln(x)}{\ln(10)}$
+log typically refers to the base 10 logarithm, also known as the common logarithm. ln stands for the natural logarithm, which is the logarithm with base e (Euler's number, approximately 2.71828). $$\log(x) = \frac{\ln(x)}{\ln(10)}$$
 
-- $\bar{Y}_n$: reduced mean, a function of sample size $N$
-- $S_n$: reduced standard deviation, a function of sample size $N$
+- $$\bar{Y}_n$$: reduced mean, a function of sample size $$N$$
+- $$S_n$$: reduced standard deviation, a function of sample size $$N$$
 
 ### Yn and Sn in Gumbel's Extreme Value Distribution
 
