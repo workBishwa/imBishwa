@@ -53,7 +53,10 @@ Where:
 
      $$Y_T = -\ln(-\ln(\frac{T}{T - 1}))$$  
      or  
-     $$Y_T = -[0.834 + 2.303 \log(\log(\frac{T}{T - 1}))]$$  
+     $$Y_T = -[0.834 + 2.303 \log(\log(\frac{T}{T - 1}))]$$
+
+Note:
+log typically refers to the base 10 logarithm, also known as the common logarithm. ln stands for the natural logarithm, which is the logarithm with base e (Euler's number, approximately 2.71828). $\log(x) = \frac{\ln(x)}{\ln(10)}$
 
 - $\bar{Y}_n$: reduced mean, a function of sample size $N$
 - $S_n$: reduced standard deviation, a function of sample size $N$
