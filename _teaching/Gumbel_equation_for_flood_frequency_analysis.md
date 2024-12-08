@@ -13,33 +13,21 @@ location: "Kathmandu, Nepal"
 ## Equations for Gumbel Distribution
 
 ### Maximum Series
-\[
-M_n = \max \{ X_1, X_2, \dots, X_n \}
-\]
+Mn = max {X1, X2, ..., Xn}
 
 ### Gumbel Equation
-\[
-X_T = \text{mean} + K \cdot SD
-\]
+XT = mean + K * SD
 
 Where:
-- \( SD = \text{standard deviation} \)
-- \( K = \text{frequency factor} \)
-  
-The frequency factor \( K \) is given by:
-\[
-K = \frac{Y_T - Y_n}{S_n}
-\]
+- SD = standard deviation
+- K = frequency factor  
+  \( K = (YT - Yn) / Sn \)
 
 #### Components of \( K \):
-1. \( Y_T \) = Reduced variate, a function of \( T \):
-   \[
-   Y_T = -\ln(\ln(\frac{T}{T-1}))
-   \]
-   Or:
-   \[
-   Y_T = -[0.834 + 2.303 \cdot \log(\log(\frac{T}{T-1}))]
-   \]
-   
-2. \( Y_n \) = Reduced mean, a function of sample size \( N \).  
-3. \( S_n \) = Reduced standard deviation, a function of sample size \( N \).
+1. YT = Reduced variate, a function of T:
+   YT = -[ln(ln(T / (T - 1)))]  
+   Or:  
+   YT = -[0.834 + 2.303 * log(log(T / (T - 1)))]  
+
+2. Yn = Reduced mean, a function of sample size N.  
+3. Sn = Reduced standard deviation, a function of sample size N.
