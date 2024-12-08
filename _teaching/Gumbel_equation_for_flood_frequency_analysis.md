@@ -33,7 +33,7 @@ XT = mean + K * SD bar{x}
 Where:
 $$z_{1-\alpha/2}\sigma\sqrt{2/n}$$
 
-\(\bar{x}\)
+$$\bar{x} $$
 
 - SD = standard deviation
 - K = frequency factor  
@@ -48,3 +48,5 @@ $$z_{1-\alpha/2}\sigma\sqrt{2/n}$$
 
 2. Yn = Reduced mean, a function of sample size N.  
 3. Sn = Reduced standard deviation, a function of sample size N.
+
+### Yn and Sn in Gumbel's Extreme Value Distribution
