@@ -31,7 +31,6 @@ Mn = max {X1, X2, ..., Xn}
 XT = mean + K * SD bar{x}
 
 Where:
-$$z_{1-\alpha/2}\sigma\sqrt{2/n}$$
 
 $$\bar{x} $$
 
@@ -50,3 +49,5 @@ $$\bar{x} $$
 3. Sn = Reduced standard deviation, a function of sample size N.
 
 ### Yn and Sn in Gumbel's Extreme Value Distribution
+
+![Yn and Sn in Gumbel's Extreme Value Distribution](https://workbishwa.github.io/imBishwa/images/Yn_Sn_value_for_gumbel_distribution.png)
