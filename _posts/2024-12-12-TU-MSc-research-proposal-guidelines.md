@@ -1,5 +1,5 @@
 ---
-title: 'MSc Research Proposal Guidelines for CAS-Nepal Students: Under the Supervision of Bishwa Prakash Puri'
+title: 'MSc Research Proposal Guidelines'
 date: 2024-12-02
 permalink: /posts/2024/12/MSc-Research-Proposal-Guidelines-CAS-Nepal/
 tags:
@@ -43,4 +43,4 @@ And of courses, Students newly updated CV (Curriculum vitae) is must.
 Following document is [**GUIDELINES AND FORMAT FOR RESEARCH PROPOSAL BY TU**.](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/TU_Research_Proposal_Guideline.pdf)
 
 ---
-[^1]: This simple guidelines for creating research proposal is designed for MSc. students of College of Applied Sciences-Nepal (TU).
+[^1]: This simple guidelines for creating research proposal is designed for MSc. students of College of Applied Sciences-Nepal (TU) Under the Supervision of Bishwa Prakash Puri.
