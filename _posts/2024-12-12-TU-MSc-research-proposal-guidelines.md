@@ -1,5 +1,5 @@
 ---
-title: 'MSc. Research Proposal Guidelines CAS-Nepal'
+title: 'MSc Research Proposal Guidelines for CAS-Nepal Students: Under the Supervision of Bishwa Prakash Puri'
 date: 2024-12-02
 permalink: /posts/2024/12/MSc-Research-Proposal-Guidelines-CAS-Nepal/
 tags:
