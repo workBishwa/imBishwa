@@ -7,9 +7,10 @@ tags:
   - MSc
   - Guidelines
 ---
-Note [^1]
 
 Research proposal is important piece of paper, it talk about the question students wants to answer through their research. It shows researcher knowledge of the subject area and tell us about the methodology research will follow.
+
+Note [^1]
 
 When writing your proposal, you should:
 
