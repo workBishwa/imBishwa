@@ -18,4 +18,3 @@ This study analyzed the seasonal and annual trends of maximum temperature (Tmax)
 Keywords: Koshi Basin, Temperature trends, Spatial variation, Physiographic regions and Seasonal changes
 
 - [**Read:** 📖](https://www.nepjol.info/index.php/JHM/article/view/72654)
-- [**Download:** 📥](https://www.nepjol.info/index.php/JHM/article/view/72654/55428)
