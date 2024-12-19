@@ -127,7 +127,7 @@ Predictor variables are critical for running SDSM as they provide the large-scal
 1. **Access Predictor Data**
 
     - Go to the **Climate Scenarios Canada** website:  
-        👉 [Retrieve Predictor Data Here](https://climate-scenarios.canada.ca/?page=pred-canesm2)
+        👉 [Retrieve Predictor Data Here 📥](https://climate-scenarios.canada.ca/?page=pred-canesm2)
 2. **Input Location Details**
 
     - Specify the longitude and latitude of your location in the form provided or choose your location on the map.
