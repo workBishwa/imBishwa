@@ -140,4 +140,12 @@ Predictor variables are critical for running SDSM as they provide the large-scal
     - Click on **Retrieve Data** to download the predictor variables for your chosen location. Save these files to your computer for use in SDSM.
 
 ---
+
+## Download predictand Variables
+
+Predictand variables play a crucial role in running the Statistical Downscaling Model (SDSM). These variables establish the connection between local-scale observations and large-scale atmospheric data, enabling accurate downscaling for climate analysis and predictions.
+
+[Download sample rainfall data of surkhet](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/Surkhet_sample_Data.xlsx)
+
+---
 [^1]: Are you ready to integrate SDSM into your research or planning? Let me know how downscaling can transform your approach to climate impact studies!
