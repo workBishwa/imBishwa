@@ -102,7 +102,7 @@ As climate change continues to pose challenges at every scale, tools like SDSM e
 
 1. **Download SDSM**
 
-    - Visit the official SDSM website and download the latest version (currently **6.1**).  
+    - Visit the official SDSM website and download the latest version (scroll down and download **4.2** for this practical session).  
         👉 [Download SDSM here 📥](https://sdsm.org.uk/software.html)
 2. **Extract the Installation Files**
 
