@@ -8,8 +8,6 @@ date: 2024-12-24
 location: "Kathmandu, Nepal"
 ---
 
-### Introduction to Land Use Land Cover (LULC) Maps
-
 The terms *land use* and *land cover* are often used interchangeably, but each has its own distinct meaning. *Land cover* refers to the physical material found on the Earth's surface, such as vegetation, urban infrastructure, water bodies, and bare soil. Identifying land cover forms the foundation for activities like thematic mapping and change detection analysis. On the other hand, *land use* refers to the purpose or function of the land, such as agriculture, wildlife habitat, recreation, or urban development.
 
 When combined, the term *Land Use/Land Cover* (LULC) generally refers to the categorization or classification of both human activities and natural elements on the landscape, within a specified time frame. This classification is based on scientific and statistical methods using relevant source materials.
@@ -32,7 +30,7 @@ A common application of LULC maps is change detection, which compares the land c
 
 LULC classification is one of the most widely used applications of remote sensing. The two most common approaches for classification are:
 
-#### 1. **Unsupervised Classification**:
+#### 1. **Unsupervised Classification**
 
 In this method, software analyzes the image without requiring the user to provide sample classes. The software groups pixels with common characteristics into classes using algorithms. The user specifies the number of output classes, but the software determines the classification.
 
@@ -41,7 +39,7 @@ In this method, software analyzes the image without requiring the user to provid
 - The image is segmented based on its spectral properties.
 - Pixels are grouped into clusters, and the software assigns a class label.
 
-#### 2. **Supervised Classification**:
+#### 2. **Supervised Classification**
 
 In supervised classification, the user selects sample pixels that represent specific classes (such as forests, wetlands, or urban areas) and guides the software to classify all other pixels in the image. The user also sets the bounds for how similar other pixels must be to those training sites.
 
@@ -94,4 +92,3 @@ Example Project:
 This project is for Balkhu Basin:
 [Raster file (Download..📥)](https://workbishwa.github.io/imBishwa/files/Balkhu_landsat.rar)
 [Boundary file.shp (Download..📥)](https://workbishwa.github.io/imBishwa/files/Balkhu_boundary.rar)
-
