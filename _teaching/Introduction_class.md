@@ -15,8 +15,8 @@ To set the foundation, we'll discuss the key objectives of hydrological modeling
 
 ### 🌐 **Download Tools for Hydrological Modeling**  
 
-- **HEC-HMS**: [🌊 Download HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/downloads.aspx)  
-- **HEC-RAS**: [🏞️ Download HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/download.aspx)  
-- **HEC-DSSVue**: [📊 Download HEC-DSSVue](https://www.hec.usace.army.mil/software/hec-dssvue/downloads.aspx)  
+- **HEC-HMS**: [🌊 Download HEC-HMS📥](https://www.hec.usace.army.mil/software/hec-hms/downloads.aspx)  
+- **HEC-RAS**: [🏞️ Download HEC-RAS📥](https://www.hec.usace.army.mil/software/hec-ras/download.aspx)  
+- **HEC-DSSVue**: [📊 Download HEC-DSSVue📥](https://www.hec.usace.army.mil/software/hec-dssvue/downloads.aspx)  
 
 [View Class slides in Google Docs](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/L1_Introduction_Hydrology.pdf)
