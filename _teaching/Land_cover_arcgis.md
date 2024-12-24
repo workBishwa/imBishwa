@@ -95,4 +95,4 @@ This project is for Balkhu Basin:
 
 [Boundary file.shp (Download..📥)](https://workbishwa.github.io/imBishwa/files/Balkhu_boundary.rar)
 
-[Kathmandu valley landsat files ((Download..📥))](https://drive.google.com/file/d/1lGcnJG5dxSWJbeZerPNlJzvqu0WOUsap/view?usp=drive_link)
+[Whole Kathmandu valley landsat files ((Download..📥))](https://drive.google.com/file/d/1lGcnJG5dxSWJbeZerPNlJzvqu0WOUsap/view?usp=drive_link)
