@@ -17,7 +17,7 @@ I wear multiple hats as a:
 
 - 📚 **Assistant Professor** (College of Applied Sciences-Nepal)
 - 🌍 **Business Development Manager**  
-- 🎓 **Education Consultant** (Specializing in USA, UK, and Australia)  
+- 🎓 **Education Consultant: Nepal Government Certified (TITI)** (Specializing in USA, UK, and Australia)  
 - 🌱 **Environmental Consultant**  
 - 📚 **Researcher**  
 
