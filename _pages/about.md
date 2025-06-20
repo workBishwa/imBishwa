@@ -13,12 +13,18 @@ Hello! I'm **Bishwa Prakash Puri**, and I am thrilled to have you here! 🌎✨
 
 ---
 
-| Section                   | Description                                      |
+## Let's Create Impact Together 🌱
+
+I'm open to **consulting**, **collaborating**, and **partnering** on projects that matter to you.  
+If you're looking to build sustainable solutions and meaningful results, let's connect.  
+📩 **work.bishwapuri@gmail.com**
+
+| Areas                 | Description                                      |
 |---------------------------|--------------------------------------------------|
 | [Study Abroad with Me](#study-abroad) | USA, UK, Australia, Europe, and Others         |
 | [Research Collaboration](#research-collaboration) | Academic and professional partnerships           |
 | [Business Development](#business-development)     | Growth strategies and consulting services        |
-| [Environmental Consultation](#environmental-consultation) | Sustainability and eco-friendly solutions         |
+| [Environmental Consultation](#environmental-consultation) | EIA, IEE, BES, Environmental Monitoring, Earth Sciences, Multi-hazard analysis, GIS solutions, Sustainability and eco-friendly solutions         |
 
 
 ---
