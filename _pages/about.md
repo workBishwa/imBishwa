@@ -11,6 +11,19 @@ redirect_from:
 
 Hello! I'm **Bishwa Prakash Puri**, and I am thrilled to have you here! 🌎✨ 
 
+---
+
+| Section                   | Description                                      |
+|---------------------------|--------------------------------------------------|
+| [Study Abroad with Me](#study-abroad) | USA, UK, Australia, Europe, and Others         |
+| [Research Collaboration](#research-collaboration) | Academic and professional partnerships           |
+| [Business Development](#business-development)     | Growth strategies and consulting services        |
+| [Environmental Consultation](#environmental-consultation) | Sustainability and eco-friendly solutions         |
+
+
+---
+
+
 ## 🌟 Who Am I?
 
 I wear multiple hats as a:
