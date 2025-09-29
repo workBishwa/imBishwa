@@ -2,7 +2,7 @@
 title: 'Education Counseling in Nepal'
 date: 2025-05-19
 permalink: /study-abroad/2025-education-counselling/
-
+collection: study-abroad
 
 tags:
   - Education Counseling
