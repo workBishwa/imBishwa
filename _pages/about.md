@@ -19,9 +19,16 @@ I'm open to **consulting**, **collaborating**, and **partnering** on projects th
 If you're looking to build sustainable solutions and meaningful results, let's connect.  
 📩 **work.bishwapuri@gmail.com**
 
+<!-- Promotional Section for Abroad Study Solution -->
+<div class="study-abroad-promo">
+  <h2>Unlock Your Global Education Journey!</h2>
+  <p>Ready to study abroad? Discover expert guidance and personalized solutions to make your international education dreams a reality. From choosing the right university to navigating visa processes, our <strong>Abroad Study Team</strong> has you covered. Start your adventure today!</p>
+  <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Explore Abroad Study Solutions</a>
+</div>
+
 | Areas                 | Description                                      |
 |---------------------------|--------------------------------------------------|
-| [Study Abroad with Me](https://eenfee.github.io/study-abroad/) | USA, UK, Australia, Europe, and Others         |
+| [Study Abroad with Me](#study-abroad) <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Explore Abroad Study Solutions</a> | USA, UK, Australia, Europe, and Others   <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Explore Abroad Study Solutions</a>      |
 | [Research Collaboration](#research-collaboration) | Academic and professional partnerships           |
 | [Business Development](#business-development)     | Growth strategies and consulting services        |
 | [Environmental Consultation](#environmental-consultation) | EIA, IEE, BES, Environmental Monitoring, Earth Sciences, Multi-hazard analysis, GIS solutions, Sustainability and eco-friendly solutions         |
