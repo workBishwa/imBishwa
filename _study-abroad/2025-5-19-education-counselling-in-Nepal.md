@@ -1,7 +1,9 @@
 ---
 title: 'Education Counseling in Nepal'
 date: 2025-05-19
-permalink: /posts/2025/05/education-counselling/
+permalink: /study-abroad/2025-education-counselling/
+
+
 tags:
   - Education Counseling
   - TITI
