@@ -28,7 +28,7 @@ If you're looking to build sustainable solutions and meaningful results, let's c
 
 | Areas                 | Description                                      |
 |---------------------------|--------------------------------------------------|
-| [Study Abroad with Me](#study-abroad) <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Explore Abroad Study Solutions</a> | USA, UK, Australia, Europe, and Others   <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Explore Abroad Study Solutions</a>      |
+| <a href="https://eenfee.github.io/study-abroad/" class="btn btn--primary" target="_blank">Study Abroad with Us</a> | USA, UK, Australia, Europe, and Others         |
 | [Research Collaboration](#research-collaboration) | Academic and professional partnerships           |
 | [Business Development](#business-development)     | Growth strategies and consulting services        |
 | [Environmental Consultation](#environmental-consultation) | EIA, IEE, BES, Environmental Monitoring, Earth Sciences, Multi-hazard analysis, GIS solutions, Sustainability and eco-friendly solutions         |
