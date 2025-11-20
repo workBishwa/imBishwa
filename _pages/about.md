@@ -35,9 +35,7 @@ If you're looking to build sustainable solutions and meaningful results, let's c
 | [Business Development](#business-development)     | Growth strategies and consulting services        |
 | [Environmental Consultation](#environmental-consultation) | EIA, IEE, BES, Environmental Monitoring, Earth Sciences, Multi-hazard analysis, GIS solutions, Sustainability and eco-friendly solutions         |
 
-
 ---
-
 
 ## 🌟 Who Am I?
 
