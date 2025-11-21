@@ -11,6 +11,11 @@ gem 'tzinfo', '~> 2.0'
 # On Windows platforms include tzinfo-data
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+
+gem "jekyll-gist"
+gem "jekyll-paginate"
+
+
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
@@ -22,3 +27,4 @@ end
 # use the `github-pages` gem instead and remove the direct `jekyll` gem above.
 # The `github-pages` gem pins a set of plugins and a Jekyll version managed by GitHub.
 # gem 'github-pages', group: :jekyll_plugins
+

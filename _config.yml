@@ -12,8 +12,8 @@ title                    : "Bishwa"
 title_separator          : "-"
 name                     : &name "Bishwa Prakash Puri"
 description              : &description "Bishwa description"
-url                      : https://workbishwa.github.io # https://workbishwa.github.io/imBishwa/ the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/imBishwa" # the subpath of your site, e.g. "/blog"
+url                      : https://bishwapuri.com.np # the base hostname & protocol for your site (custom domain)
+baseurl                  : "" # when using a custom domain at the root, keep this blank
 repository               : "workBishwa/imBishwa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,7 +27,7 @@ author:
   bio              : "A boring 😊 yet curious soul 🌱 on a lifelong journey of discovery 🌍. My opinions change 🔄 as I grow 📚, learn 💡, and embrace new perspectives ✨"
   location         : "Kathmandu, Nepal"
   employer         : 
-  uri              : https://workbishwa.github.io/imBishwa/
+  uri              : https://bishwapuri.com.np/
   email            : "work.bishwapuri@gmail.com" 
 
   # Academic websites
