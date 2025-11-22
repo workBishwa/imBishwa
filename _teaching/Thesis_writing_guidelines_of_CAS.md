@@ -42,5 +42,5 @@ Following these guidelines will ensure your thesis meets the academic standards 
 
 [📄 Download College of Applied Sciences‑Nepal Thesis Formatting Guidelines (PDF)](/files/cas_msc_thesis_format.pdf){:target="_blank" rel="noopener"}
 
-[Download College of Applied Sciences-Nepal Thesis Formatting Guidelines](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/cas_msc_thesis_format.pdf)
+
 
