@@ -91,8 +91,9 @@ Example Project:
 
 This project is for Balkhu Basin:
 
-[Raster file (Download..📥)](https://workbishwa.github.io/imBishwa/files/Balkhu_landsat.rar)
+[Raster file (Download..📥)](/files/Balkhu_landsat.rar)
 
-[Boundary file.shp (Download..📥)](https://workbishwa.github.io/imBishwa/files/Balkhu_boundary.rar)
+
+[Boundary file.shp (Download..📥)](/files/Balkhu_boundary.rar)
 
 [Whole Kathmandu valley landsat files ((Download..📥))](https://drive.google.com/file/d/1lGcnJG5dxSWJbeZerPNlJzvqu0WOUsap/view?usp=drive_link)

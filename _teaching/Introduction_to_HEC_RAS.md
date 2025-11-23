@@ -42,5 +42,5 @@ When embarking on the journey of modeling hydraulic systems using HEC-RAS (Hydro
 
 ## **Downloads**
 
-[Balkhu Terrain File (*.tif*)📥](https://workbishwa.github.io/imBishwa/files/clip_balkhu111.tif)  
-[projection for Balkhu(*.prj*)📥](https://workbishwa.github.io/imBishwa/files/Balkhu_Boundary.prj)
+[Balkhu Terrain File (*.tif*)📥](/files/clip_balkhu111.tif)  
+[projection for Balkhu(*.prj*)📥](/files/Balkhu_Boundary.prj)

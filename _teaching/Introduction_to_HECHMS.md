@@ -380,5 +380,5 @@ In this example, we will use HEC-HMS to analyze hydrological processes in the Ba
 
 ## **Downloads**
 
-[Balkhu Terrain File (*.tif*)📥](https://workbishwa.github.io/imBishwa/files/clip_balkhu111.tif)  
-[projection_coordinate📥](https://workbishwa.github.io/imBishwa/files/balkhu_coordinate.prj)
+[Balkhu Terrain File (*.tif*)📥](/files/clip_balkhu111.tif)  
+[projection_coordinate📥](/files/balkhu_coordinate.prj)

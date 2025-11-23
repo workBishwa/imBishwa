@@ -65,6 +65,6 @@ Where:
 
 ![Yn and Sn in Gumbel's Extreme Value Distribution](https://workbishwa.github.io/imBishwa/images/Yn_Sn_value_for_gumbel_distribution.png)
 
-[View Template excel sheet for Gumbel calculation in Google Docs](https://docs.google.com/viewer?url=https://workbishwa.github.io/imBishwa/files/gumbel_calculation_template.xlsx)
+[View Template excel sheet for Gumbel calculation in Google Docs](/files/gumbel_calculation_template.xlsx)
 
-[Download Template excel sheet for Gumbel calculation](https://workbishwa.github.io/imBishwa/files/gumbel_calculation_template.xlsx)
+[Download Template excel sheet for Gumbel calculation](/gumbel_calculation_template.xlsx)
